@@ -1,0 +1,76 @@
+{
+    "ciudades": [
+        {
+            "nombre": "Valencia",
+            "id": "0",
+            "distancias": [
+                0,
+                7,
+                19,
+                24,
+                35,
+                12
+            ]
+        },
+        {
+            "nombre": "Madrid",
+            "id": "1",
+            "distancias": [
+                7,
+                0,
+                21,
+                8,
+                15,
+                8
+            ]
+        },
+        {
+            "nombre": "Barcelona",
+            "id": "2",
+            "distancias": [
+                19,
+                21,
+                0,
+                19,
+                45,
+                23
+            ]
+        },
+        {
+            "nombre": "Alicante",
+            "id": "3",
+            "distancias": [
+                24,
+                8,
+                19,
+                0,
+                17,
+                11
+            ]
+        },
+        {
+            "nombre": "Bilbao",
+            "id": "4",
+            "distancias": [
+                35,
+                15,
+                45,
+                17,
+                0,
+                8
+            ]
+        },
+        {
+            "nombre": "Santiago",
+            "id": "5",
+            "distancias": [
+                12,
+                8,
+                23,
+                11,
+                8,
+                0
+            ]
+        }
+    ]
+}
